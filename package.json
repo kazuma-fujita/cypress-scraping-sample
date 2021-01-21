@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "cypress": "^6.3.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:chrome": "cypress run --browser chrome",
+    "cy:run:firefox": "cypress run --browser firefox"
+  }
+}
