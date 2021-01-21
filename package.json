@@ -8,5 +8,8 @@
     "cy:run": "cypress run",
     "cy:run:chrome": "cypress run --browser chrome",
     "cy:run:firefox": "cypress run --browser firefox"
+  },
+  "dependencies": {
+    "typescript": "^4.1.3"
   }
 }
